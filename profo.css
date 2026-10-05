@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-profile-photo {
+    width: 240px;
+    height: 240px;
+    border-radius: 100%;
+}
+.content{
+    text-align: center;
+}
+h1 span {
+    color: blue;
+}
+.my-bio{
+    margin: 20px;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.link{
+    display: inline-block;
+    background-color: turquoise;
+    padding: 12px 14px;
+    border-radius: 50px;
+    margin-top: 25px;
+
+}
